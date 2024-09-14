@@ -41,3 +41,19 @@ Le back-end créé doit pouvoir gérer les produits dans une base de données SQ
 ## Bonus
 
 Vous pouvez ajouter des tests Postman ou Swagger pour valider votre API
+
+
+## Solution
+
+Accéder à l'url ==> http://localhost:8080/swagger-ui.html a fin de tester les apis Products crées
+
+  Ou Sinon :
+
+Avec Postman ==> 
+
+    - GET : http://localhost:8080/products ==> récuperer la liste des produits
+    - POST : http://localhost:8080/products ==> ajouter un nouveau produit
+    - GET : http://localhost:8080/products/{id} ==> récuperer un produit avec son identifiant
+    - PATCH : http://localhost:8080/products/{id} ==> mettre à jour un produit via son identifiant ID
+    - DELETE : http://localhost:8080/products/{id} ==> supprimer un produit par son ID
+
