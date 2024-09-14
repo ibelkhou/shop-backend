@@ -57,3 +57,6 @@ Avec Postman ==>
     - PATCH : http://localhost:8080/products/{id} ==> mettre à jour un produit via son identifiant ID
     - DELETE : http://localhost:8080/products/{id} ==> supprimer un produit par son ID
 
+
+https://web.postman.co/workspace/My-Workspace~db8a6863-d72c-4501-8c85-537bb0e2f03d/request/19628363-4afc950c-ab30-44e4-901e-67297510d287?action=share&source=copy-link&creator=19628363
+https://web.postman.co/workspace/My-Workspace~db8a6863-d72c-4501-8c85-537bb0e2f03d/request/19628363-61ddc3d2-3659-46a0-bacf-8e80e24a0990?action=share&source=copy-link&creator=19628363
